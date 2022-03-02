@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/strangedev/css-in-js/compare/1.0.0...1.1.0) (2022-03-02)
+
+
+### Features
+
+* add index ([#1](https://github.com/strangedev/css-in-js/issues/1)) ([1a26550](https://github.com/strangedev/css-in-js/commit/1a26550026d9309c1e105f4ac36ff4fd688c1dd0))
+
 # 1.0.0 (2022-03-02)
 
 
