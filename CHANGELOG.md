@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/strangedev/css-in-js/compare/1.1.0...1.2.0) (2022-03-02)
+
+
+### Features
+
+* add Stringable, Stringlike types ([#2](https://github.com/strangedev/css-in-js/issues/2)) ([a4986d1](https://github.com/strangedev/css-in-js/commit/a4986d1a0788cfe0c2a5633caac6606f0d3826cf))
+
 # [1.1.0](https://github.com/strangedev/css-in-js/compare/1.0.0...1.1.0) (2022-03-02)
 
 
