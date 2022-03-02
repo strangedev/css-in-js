@@ -36,6 +36,10 @@ import {
   Vw,
   vw
 } from './quantities';
+import {
+  Stringable,
+  Stringlike
+} from './Stringable';
 
 export {
   Ch,
@@ -64,6 +68,8 @@ export {
   px,
   Rem,
   rem,
+  Stringable,
+  Stringlike,
   Vh,
   vh,
   Vmax,
