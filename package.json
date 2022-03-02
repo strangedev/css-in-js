@@ -1,0 +1,40 @@
+{
+  "name": "@nhummel/css-in-js",
+  "version": "0.1.0",
+  "description": "Helpers for generating CSS from JS.",
+  "contributors": [
+    {
+      "name": "Noah Hummel",
+      "email": "noah.hummel@thenativeweb.io"
+    }
+  ],
+  "private": false,
+  "main": "build/lib/index.js",
+  "types": "build/lib/index.d.ts",
+  "type": "commonjs",
+  "dependencies": {
+    "@types/color": "3.0.3",
+    "color": "4.2.1"
+  },
+  "devDependencies": {
+    "assertthat": "6.4.0",
+    "common-tags": "1.8.2",
+    "roboter": "12.7.0",
+    "semantic-release-configuration": "2.0.7"
+  },
+  "scripts": {
+    "test": "npx roboter test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/strangedev/css-in-js.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "css",
+    "helper"
+  ],
+  "license": "MIT"
+}
