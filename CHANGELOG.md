@@ -1,3 +1,10 @@
+# 1.0.0 (2022-03-02)
+
+
+### Features
+
+* initial release ([5e7fe2f](https://github.com/strangedev/css-in-js/commit/5e7fe2f62b893e3f80b311764a09d3e9764553b1))
+
 ## [1.0.3](https://github.com/strangedev/react-i18next-fluent/compare/1.0.2...1.0.3) (2022-02-25)
 
 
