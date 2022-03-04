@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/strangedev/css-in-js/compare/1.2.0...1.3.0) (2022-03-04)
+
+
+### Features
+
+* add duration ([#3](https://github.com/strangedev/css-in-js/issues/3)) ([3f6eeaf](https://github.com/strangedev/css-in-js/commit/3f6eeaf23e2dd44ac56ab8a5c6def7c04b8c53aa))
+
 # [1.2.0](https://github.com/strangedev/css-in-js/compare/1.1.0...1.2.0) (2022-03-02)
 
 
