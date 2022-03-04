@@ -1,6 +1,7 @@
 import {
   CssBuilder
 } from './CssBuilder';
+import { Duration } from './quantities/Duration';
 import {
   Ch,
   ch,
@@ -51,6 +52,7 @@ export {
   ColorRgb,
   ColorRgba,
   CssBuilder,
+  Duration,
   Em,
   em,
   Ex,
