@@ -17,7 +17,7 @@
     "color": "4.2.1"
   },
   "devDependencies": {
-    "assertthat": "6.4.0",
+    "assertthat": "6.5.0",
     "common-tags": "1.8.2",
     "roboter": "12.7.0",
     "semantic-release-configuration": "2.0.7"
