@@ -14,7 +14,7 @@
   "type": "commonjs",
   "dependencies": {
     "@types/color": "3.0.3",
-    "color": "4.2.1"
+    "color": "4.2.3"
   },
   "devDependencies": {
     "assertthat": "6.5.2",
