@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/strangedev/css-in-js/compare/1.3.0...1.3.1) (2022-04-09)
+
+
+### Bug Fixes
+
+* bump color from 4.2.1 to 4.2.3 ([#8](https://github.com/strangedev/css-in-js/issues/8)) ([a2fcb3b](https://github.com/strangedev/css-in-js/commit/a2fcb3b265fe3d256aab8081dd6541ab63cab2e2))
+
 # [1.3.0](https://github.com/strangedev/css-in-js/compare/1.2.0...1.3.0) (2022-03-04)
 
 
